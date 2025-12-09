@@ -1,0 +1,5 @@
+{
+  "name": "My Game Arcade",
+  "description": "A retro-styled game arcade lobby featuring the hit game Space Donut Patrol, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
